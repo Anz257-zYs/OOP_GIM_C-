@@ -1,0 +1,14 @@
+C:\Users\LENOVO\C#pt3\C#pt3\bin\Debug\net10.0\C#pt3.exe
+C:\Users\LENOVO\C#pt3\C#pt3\bin\Debug\net10.0\C#pt3.deps.json
+C:\Users\LENOVO\C#pt3\C#pt3\bin\Debug\net10.0\C#pt3.runtimeconfig.json
+C:\Users\LENOVO\C#pt3\C#pt3\bin\Debug\net10.0\C#pt3.dll
+C:\Users\LENOVO\C#pt3\C#pt3\bin\Debug\net10.0\C#pt3.pdb
+C:\Users\LENOVO\C#pt3\C#pt3\obj\Debug\net10.0\C#pt3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\C#pt3\C#pt3\obj\Debug\net10.0\C#pt3.AssemblyInfoInputs.cache
+C:\Users\LENOVO\C#pt3\C#pt3\obj\Debug\net10.0\C#pt3.AssemblyInfo.cs
+C:\Users\LENOVO\C#pt3\C#pt3\obj\Debug\net10.0\C#pt3.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\C#pt3\C#pt3\obj\Debug\net10.0\C#pt3.dll
+C:\Users\LENOVO\C#pt3\C#pt3\obj\Debug\net10.0\refint\C#pt3.dll
+C:\Users\LENOVO\C#pt3\C#pt3\obj\Debug\net10.0\C#pt3.pdb
+C:\Users\LENOVO\C#pt3\C#pt3\obj\Debug\net10.0\C#pt3.genruntimeconfig.cache
+C:\Users\LENOVO\C#pt3\C#pt3\obj\Debug\net10.0\ref\C#pt3.dll
